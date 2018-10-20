@@ -1,0 +1,6 @@
+{
+	"prefix": "!",
+	"token": "SECRET_TOKEN",
+	"devID": "DEVELOPER_ID",
+	"dbUrl": "mongodb://localhost/Test"
+}
