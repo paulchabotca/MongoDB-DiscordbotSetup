@@ -1,6 +1,6 @@
 # StableDiscordBotSetup (MongoDB)
 
-If you don't want to use the MongoDB Version checkout the (Normal Version)[https://github.com/jerskisnow/StableDiscordBotSetup]
+If you don't want to use the MongoDB Version checkout the [Normal Version](https://github.com/jerskisnow/StableDiscordBotSetup)
 
 Commands:
 ```
