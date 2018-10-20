@@ -8,6 +8,7 @@ npm init
 npm install discord.js
 npm install moment
 npm install enmap
+npm install mongoose
 ```
 
 Keep in mind, the getPrefix function is using a callback method so if you want to call the function in an other class run the following code:
