@@ -1,6 +1,6 @@
 {
 	"prefix": "!",
-	"token": "SECRET_TOKEN",
-	"devID": "DEVELOPER_ID",
+	"token": "NTc5MzU1ODM2ODc5NzMyNzU2.XOB3Nw.zD1OsfQz6__d7FtO6n5BHUixGlY",
+	"devID": "167974270356553728",
 	"dbUrl": "mongodb://localhost/Test"
 }

@@ -1,0 +1,27 @@
+{
+  "name": "icanhasbot2",
+  "version": "1.0.0",
+  "description": "If you don't want to use the MongoDB Version checkout the [Normal Version](https://github.com/jerskisnow/StableDiscordBotSetup)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulchabotca/MongoDB-DiscordbotSetup.git"
+  },
+  "author": "PaulieC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulchabotca/MongoDB-DiscordbotSetup/issues"
+  },
+  "homepage": "https://github.com/paulchabotca/MongoDB-DiscordbotSetup#readme",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "enmap": "^4.8.7",
+    "moment": "^2.24.0",
+    "mongoose": "^5.5.9",
+    "mongoose-crate-localfs": "^1.1.4"
+  },
+  "devDependencies": {}
+}
